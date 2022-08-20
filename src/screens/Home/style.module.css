@@ -1,0 +1,15 @@
+.home {
+  text-align: center;
+}
+
+.logo {
+  /* width: 16rem; */
+  height: 14rem;
+}
+
+.desc {
+  padding: 2rem;
+  max-width: 22rem;
+  font-size: 1.5rem;
+  line-height: 1.4;
+}

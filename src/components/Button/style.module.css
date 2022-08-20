@@ -1,0 +1,21 @@
+.btn {
+  padding: 1rem;
+  padding-bottom: 0.8rem;
+  border: none;
+  transistion: all 0.1s;
+  background-color: var(--color-white);
+}
+
+.btn:active {
+  transform: translateY(2px);
+}
+
+.sm {
+  border-radius: 0.8rem;
+  border-bottom: 0.3rem solid var(--color-gray);
+}
+
+.lg {
+  border-radius: 2rem;
+  border-bottom: 0.5rem solid var(--color-gray);
+}

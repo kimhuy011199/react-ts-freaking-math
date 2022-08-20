@@ -1,0 +1,30 @@
+.game {
+  width: 100vw;
+  height: 100vh;
+  padding-bottom: 8rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.currentScore {
+  text-align: right;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.number {
+  margin-top: 3rem;
+  font-size: 5rem;
+  text-align: center;
+}
+
+.answer {
+  margin-top: 1.5rem;
+}
+
+.action {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: auto;
+}

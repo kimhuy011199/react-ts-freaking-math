@@ -2,7 +2,7 @@
 
 **Freaking Math** can make you freaking mad!
 
-Play game online: [here]()
+Play game online: [here](https://freaking-math.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/82280024/185761638-ba6b70ac-2d45-45f2-9e7c-d11ec0dea20f.png)
 
